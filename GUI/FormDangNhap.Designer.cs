@@ -116,7 +116,7 @@
             this.label5.Location = new System.Drawing.Point(846, 605);
             this.label5.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(427, 59);
+            this.label5.Size = new System.Drawing.Size(363, 52);
             this.label5.TabIndex = 7;
             this.label5.Text = "Stationery Store ";
             // 
@@ -154,7 +154,7 @@
             this.label1.Location = new System.Drawing.Point(91, 71);
             this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(170, 32);
+            this.label1.Size = new System.Drawing.Size(146, 29);
             this.label1.TabIndex = 0;
             this.label1.Text = "Tài Khoản :";
             // 
@@ -177,7 +177,7 @@
             this.txtTK.Location = new System.Drawing.Point(93, 117);
             this.txtTK.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
             this.txtTK.Name = "txtTK";
-            this.txtTK.Size = new System.Drawing.Size(493, 32);
+            this.txtTK.Size = new System.Drawing.Size(493, 28);
             this.txtTK.TabIndex = 2;
             // 
             // label2
@@ -187,7 +187,7 @@
             this.label2.Location = new System.Drawing.Point(91, 170);
             this.label2.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(160, 32);
+            this.label2.Size = new System.Drawing.Size(135, 29);
             this.label2.TabIndex = 3;
             this.label2.Text = "Mật Khẩu :";
             // 
@@ -199,7 +199,7 @@
             this.label3.Location = new System.Drawing.Point(232, 340);
             this.label3.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(232, 29);
+            this.label3.Size = new System.Drawing.Size(192, 25);
             this.label3.TabIndex = 5;
             this.label3.Text = "Forgot Password ?";
             // 
@@ -208,7 +208,7 @@
             this.txtMK.Location = new System.Drawing.Point(93, 214);
             this.txtMK.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
             this.txtMK.Name = "txtMK";
-            this.txtMK.Size = new System.Drawing.Size(447, 32);
+            this.txtMK.Size = new System.Drawing.Size(447, 28);
             this.txtMK.TabIndex = 4;
             this.txtMK.UseSystemPasswordChar = true;
             // 
@@ -217,7 +217,7 @@
             this.ckBoxadmin.AutoSize = true;
             this.ckBoxadmin.Location = new System.Drawing.Point(139, 291);
             this.ckBoxadmin.Name = "ckBoxadmin";
-            this.ckBoxadmin.Size = new System.Drawing.Size(127, 30);
+            this.ckBoxadmin.Size = new System.Drawing.Size(110, 28);
             this.ckBoxadmin.TabIndex = 9;
             this.ckBoxadmin.Text = "Quản Lý";
             this.ckBoxadmin.UseVisualStyleBackColor = true;
@@ -228,7 +228,7 @@
             this.ckBoxNhanvien.AutoSize = true;
             this.ckBoxNhanvien.Location = new System.Drawing.Point(391, 291);
             this.ckBoxNhanvien.Name = "ckBoxNhanvien";
-            this.ckBoxNhanvien.Size = new System.Drawing.Size(149, 30);
+            this.ckBoxNhanvien.Size = new System.Drawing.Size(131, 28);
             this.ckBoxNhanvien.TabIndex = 10;
             this.ckBoxNhanvien.Text = "Nhân Viên";
             this.ckBoxNhanvien.UseVisualStyleBackColor = true;
@@ -260,7 +260,7 @@
             // 
             // FormDangNhap
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(12F, 23F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(10F, 21F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1366, 720);
             this.Controls.Add(this.label5);

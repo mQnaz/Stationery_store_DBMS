@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Quanlybanhang.BLL;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -22,42 +23,49 @@ namespace Quanlybanhang.GUI
 
         }
 
-        private void LoadFormToPanel(object form)
+        private void LoadFormToPanel(Form form)
         {
-            if (this.panelMain.Controls.Count > 0)
-                this.panelMain.Controls.RemoveAt(0);
-
-            Form f = form as Form;
-            f.TopLevel = false;
-            f.FormBorderStyle = FormBorderStyle.None;
-            f.Dock = DockStyle.Fill;
-            this.panelMain.Controls.Add(f);
-            this.panelMain.Tag = f;
-            f.Show();
+            panelMain.Controls.Clear(); // Xóa form cũ nếu có
+            form.TopLevel = false;
+            form.FormBorderStyle = FormBorderStyle.None;
+            form.Dock = DockStyle.Fill;
+            panelMain.Controls.Add(form);
+            form.Show();
         }
+        private void MoveIndicator(Control button)
+        {
+            pnlIndicator.Top = button.Top;
+            pnlIndicator.Height = button.Height;
+        }
+
 
         private void btn_HangHoaQL_Click(object sender, EventArgs e)
         {
+            MoveIndicator(btn_HangHoaQL);
             LoadFormToPanel(new FormHangHoa_QL());
         }
 
         private void btn_NhanVienQL_Click(object sender, EventArgs e)
         {
+            MoveIndicator(btn_NhanVienQL);
             LoadFormToPanel(new FormNhanVien_QL());
         }
 
         private void btn_KhachHangQL_Click(object sender, EventArgs e)
         {
+            MoveIndicator(btn_KhachHangQL);
             LoadFormToPanel(new FormKhachHang_QL());
         }
 
         private void btn_NhaCungCapQL_Click(object sender, EventArgs e)
         {
+            MoveIndicator(btn_NhaCungCapQL);
             LoadFormToPanel(new FormNhaCungCap_QL());
         }
 
         private void btn_BanHangQL_Click(object sender, EventArgs e)
         {
+            MoveIndicator(btn_BanHangQL);
             LoadFormToPanel(new FormChiTietBanHang_QL());
         }
     }

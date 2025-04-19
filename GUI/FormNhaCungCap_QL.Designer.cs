@@ -33,11 +33,11 @@
             System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle2 = new System.Windows.Forms.DataGridViewCellStyle();
             System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle3 = new System.Windows.Forms.DataGridViewCellStyle();
             this.guna2Panel1 = new Guna.UI2.WinForms.Guna2Panel();
+            this.label2 = new System.Windows.Forms.Label();
             this.btn_ThemNCC = new Guna.UI2.WinForms.Guna2Button();
             this.btn_SuaNCC = new Guna.UI2.WinForms.Guna2Button();
             this.btn_XoaNCC = new Guna.UI2.WinForms.Guna2Button();
             this.btn_TimKiemNCC = new Guna.UI2.WinForms.Guna2Button();
-            this.label2 = new System.Windows.Forms.Label();
             this.guna2HtmlLabel1 = new Guna.UI2.WinForms.Guna2HtmlLabel();
             this.guna2HtmlLabel2 = new Guna.UI2.WinForms.Guna2HtmlLabel();
             this.guna2HtmlLabel3 = new Guna.UI2.WinForms.Guna2HtmlLabel();
@@ -64,6 +64,19 @@
             this.guna2Panel1.Name = "guna2Panel1";
             this.guna2Panel1.Size = new System.Drawing.Size(227, 652);
             this.guna2Panel1.TabIndex = 27;
+            // 
+            // label2
+            // 
+            this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label2.ForeColor = System.Drawing.SystemColors.ControlText;
+            this.label2.Image = ((System.Drawing.Image)(resources.GetObject("label2.Image")));
+            this.label2.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.label2.Location = new System.Drawing.Point(22, 16);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(187, 65);
+            this.label2.TabIndex = 10;
+            this.label2.Text = "Nhà cung cấp";
+            this.label2.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             // 
             // btn_ThemNCC
             // 
@@ -141,19 +154,6 @@
             this.btn_TimKiemNCC.TabIndex = 15;
             this.btn_TimKiemNCC.Text = "Tìm Kiếm";
             // 
-            // label2
-            // 
-            this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label2.ForeColor = System.Drawing.SystemColors.ControlText;
-            this.label2.Image = ((System.Drawing.Image)(resources.GetObject("label2.Image")));
-            this.label2.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.label2.Location = new System.Drawing.Point(22, 16);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(187, 65);
-            this.label2.TabIndex = 10;
-            this.label2.Text = "Nhà cung cấp";
-            this.label2.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
-            // 
             // guna2HtmlLabel1
             // 
             this.guna2HtmlLabel1.AutoSize = false;
@@ -164,7 +164,7 @@
             this.guna2HtmlLabel1.Size = new System.Drawing.Size(175, 35);
             this.guna2HtmlLabel1.TabIndex = 33;
             this.guna2HtmlLabel1.Text = "Mã nhà cung cấp";
-            this.guna2HtmlLabel1.TextAlignment = System.Drawing.ContentAlignment.TopCenter;
+            this.guna2HtmlLabel1.TextAlignment = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // guna2HtmlLabel2
             // 
@@ -176,7 +176,7 @@
             this.guna2HtmlLabel2.Size = new System.Drawing.Size(175, 35);
             this.guna2HtmlLabel2.TabIndex = 34;
             this.guna2HtmlLabel2.Text = "Tên nhà cung cấp";
-            this.guna2HtmlLabel2.TextAlignment = System.Drawing.ContentAlignment.TopCenter;
+            this.guna2HtmlLabel2.TextAlignment = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // guna2HtmlLabel3
             // 
@@ -188,7 +188,7 @@
             this.guna2HtmlLabel3.Size = new System.Drawing.Size(175, 35);
             this.guna2HtmlLabel3.TabIndex = 35;
             this.guna2HtmlLabel3.Text = "Số điện thoại";
-            this.guna2HtmlLabel3.TextAlignment = System.Drawing.ContentAlignment.TopCenter;
+            this.guna2HtmlLabel3.TextAlignment = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // guna2HtmlLabel4
             // 
@@ -200,7 +200,7 @@
             this.guna2HtmlLabel4.Size = new System.Drawing.Size(175, 35);
             this.guna2HtmlLabel4.TabIndex = 36;
             this.guna2HtmlLabel4.Text = "Địa chỉ";
-            this.guna2HtmlLabel4.TextAlignment = System.Drawing.ContentAlignment.TopCenter;
+            this.guna2HtmlLabel4.TextAlignment = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // txtb_MaNCC_QL
             // 
@@ -254,7 +254,7 @@
             this.txtb_SDTNCC_QL.FocusedState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
             this.txtb_SDTNCC_QL.Font = new System.Drawing.Font("Segoe UI", 9F);
             this.txtb_SDTNCC_QL.HoverState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
-            this.txtb_SDTNCC_QL.Location = new System.Drawing.Point(795, 90);
+            this.txtb_SDTNCC_QL.Location = new System.Drawing.Point(778, 90);
             this.txtb_SDTNCC_QL.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txtb_SDTNCC_QL.Name = "txtb_SDTNCC_QL";
             this.txtb_SDTNCC_QL.PlaceholderText = "";
@@ -274,7 +274,7 @@
             this.txtb_DiachiNCC_QL.FocusedState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
             this.txtb_DiachiNCC_QL.Font = new System.Drawing.Font("Segoe UI", 9F);
             this.txtb_DiachiNCC_QL.HoverState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
-            this.txtb_DiachiNCC_QL.Location = new System.Drawing.Point(1042, 90);
+            this.txtb_DiachiNCC_QL.Location = new System.Drawing.Point(1024, 90);
             this.txtb_DiachiNCC_QL.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txtb_DiachiNCC_QL.Name = "txtb_DiachiNCC_QL";
             this.txtb_DiachiNCC_QL.PlaceholderText = "";
@@ -292,7 +292,7 @@
             this.guna2HtmlLabel6.Size = new System.Drawing.Size(253, 35);
             this.guna2HtmlLabel6.TabIndex = 41;
             this.guna2HtmlLabel6.Text = "Danh sách nhà cung cấp";
-            this.guna2HtmlLabel6.TextAlignment = System.Drawing.ContentAlignment.TopCenter;
+            this.guna2HtmlLabel6.TextAlignment = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // dgv_ThongTinNCC
             // 
@@ -300,7 +300,7 @@
             this.dgv_ThongTinNCC.AlternatingRowsDefaultCellStyle = dataGridViewCellStyle1;
             dataGridViewCellStyle2.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
             dataGridViewCellStyle2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(100)))), ((int)(((byte)(88)))), ((int)(((byte)(255)))));
-            dataGridViewCellStyle2.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            dataGridViewCellStyle2.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             dataGridViewCellStyle2.ForeColor = System.Drawing.Color.White;
             dataGridViewCellStyle2.SelectionBackColor = System.Drawing.SystemColors.Highlight;
             dataGridViewCellStyle2.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
@@ -310,7 +310,7 @@
             this.dgv_ThongTinNCC.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.EnableResizing;
             dataGridViewCellStyle3.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
             dataGridViewCellStyle3.BackColor = System.Drawing.Color.White;
-            dataGridViewCellStyle3.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            dataGridViewCellStyle3.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             dataGridViewCellStyle3.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(71)))), ((int)(((byte)(69)))), ((int)(((byte)(94)))));
             dataGridViewCellStyle3.SelectionBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(231)))), ((int)(((byte)(229)))), ((int)(((byte)(255)))));
             dataGridViewCellStyle3.SelectionForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(71)))), ((int)(((byte)(69)))), ((int)(((byte)(94)))));
@@ -348,8 +348,7 @@
             // 
             // FormNhaCungCap_QL
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
-            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.None;
             this.ClientSize = new System.Drawing.Size(1255, 655);
             this.Controls.Add(this.dgv_ThongTinNCC);
             this.Controls.Add(this.guna2HtmlLabel6);
@@ -362,7 +361,9 @@
             this.Controls.Add(this.guna2HtmlLabel2);
             this.Controls.Add(this.guna2HtmlLabel1);
             this.Controls.Add(this.guna2Panel1);
+            this.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.Name = "FormNhaCungCap_QL";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.Manual;
             this.Text = "FormNhaCungCap_QL";
             this.guna2Panel1.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.dgv_ThongTinNCC)).EndInit();

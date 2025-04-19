@@ -21,5 +21,10 @@ namespace Quanlybanhang.GUI
         {
 
         }
+
+        private void FormNhanVien_QL_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
