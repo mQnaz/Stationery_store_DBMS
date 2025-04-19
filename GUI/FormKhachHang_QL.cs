@@ -10,13 +10,11 @@ using System.Windows.Forms;
 
 namespace Quanlybanhang.GUI
 {
-    public partial class FormChiTietHoaDon : Form
+    public partial class FormKhachHang_QL: Form
     {
-        public FormChiTietHoaDon()
+        public FormKhachHang_QL()
         {
             InitializeComponent();
         }
-
-       
     }
 }

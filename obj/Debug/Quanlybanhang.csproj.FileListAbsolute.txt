@@ -28,3 +28,15 @@ D:\Quanlycuahang\Quanlybanhang_coDTO\Quanlybanhang\obj\Debug\Quanlybanhang.cspro
 D:\Quanlycuahang\Quanlybanhang_coDTO\Quanlybanhang\obj\Debug\Quanlyba.B0670C86.Up2Date
 D:\Quanlycuahang\Quanlybanhang_coDTO\Quanlybanhang\obj\Debug\Quanlybanhang.exe
 D:\Quanlycuahang\Quanlybanhang_coDTO\Quanlybanhang\obj\Debug\Quanlybanhang.pdb
+C:\Users\ASUS\OneDrive\UTE\Semester 4\DatabaseManagementSystem\Quanlybanhang\Quanlybanhang_coDTO\QuanLiBanHang\obj\Debug\Quanlybanhang.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\UTE\Semester 4\DatabaseManagementSystem\Quanlybanhang\Quanlybanhang_coDTO\QuanLiBanHang\obj\Debug\Quanlybanhang.GUI.FormChiTietHoaDon.resources
+C:\Users\ASUS\OneDrive\UTE\Semester 4\DatabaseManagementSystem\Quanlybanhang\Quanlybanhang_coDTO\QuanLiBanHang\obj\Debug\Quanlybanhang.GUI.FormDangNhap.resources
+C:\Users\ASUS\OneDrive\UTE\Semester 4\DatabaseManagementSystem\Quanlybanhang\Quanlybanhang_coDTO\QuanLiBanHang\obj\Debug\Quanlybanhang.GUI.FormHangHoa.resources
+C:\Users\ASUS\OneDrive\UTE\Semester 4\DatabaseManagementSystem\Quanlybanhang\Quanlybanhang_coDTO\QuanLiBanHang\obj\Debug\Quanlybanhang.GUI.FormKhachHang_QL.resources
+C:\Users\ASUS\OneDrive\UTE\Semester 4\DatabaseManagementSystem\Quanlybanhang\Quanlybanhang_coDTO\QuanLiBanHang\obj\Debug\Quanlybanhang.GUI.FormNhaCungCap_QL.resources
+C:\Users\ASUS\OneDrive\UTE\Semester 4\DatabaseManagementSystem\Quanlybanhang\Quanlybanhang_coDTO\QuanLiBanHang\obj\Debug\Quanlybanhang.FormNhanVien.resources
+C:\Users\ASUS\OneDrive\UTE\Semester 4\DatabaseManagementSystem\Quanlybanhang\Quanlybanhang_coDTO\QuanLiBanHang\obj\Debug\Quanlybanhang.GUI.FormNhanVien_QL.resources
+C:\Users\ASUS\OneDrive\UTE\Semester 4\DatabaseManagementSystem\Quanlybanhang\Quanlybanhang_coDTO\QuanLiBanHang\obj\Debug\Quanlybanhang.GUI.FormQuanLi.resources
+C:\Users\ASUS\OneDrive\UTE\Semester 4\DatabaseManagementSystem\Quanlybanhang\Quanlybanhang_coDTO\QuanLiBanHang\obj\Debug\Quanlybanhang.Properties.Resources.resources
+C:\Users\ASUS\OneDrive\UTE\Semester 4\DatabaseManagementSystem\Quanlybanhang\Quanlybanhang_coDTO\QuanLiBanHang\obj\Debug\Quanlybanhang.csproj.GenerateResource.cache
+C:\Users\ASUS\OneDrive\UTE\Semester 4\DatabaseManagementSystem\Quanlybanhang\Quanlybanhang_coDTO\QuanLiBanHang\obj\Debug\Quanlybanhang.csproj.CoreCompileInputs.cache

@@ -10,11 +10,16 @@ using System.Windows.Forms;
 
 namespace Quanlybanhang.GUI
 {
-    public partial class FormHangHoa : Form
+    public partial class FormHangHoa_QL : Form
     {
-        public FormHangHoa()
+        public FormHangHoa_QL()
         {
             InitializeComponent();
+        }
+
+        private void FormHangHoa_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }
