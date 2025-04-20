@@ -38,7 +38,7 @@
             this.guna2Panel2 = new Guna.UI2.WinForms.Guna2Panel();
             this.label2 = new System.Windows.Forms.Label();
             this.panelMain = new Guna.UI2.WinForms.Guna2Panel();
-            this.pictureBox2 = new System.Windows.Forms.PictureBox();
+            this.toolTip1 = new System.Windows.Forms.ToolTip(this.components);
             this.box_out = new System.Windows.Forms.PictureBox();
             this.btn_ThongKeQL = new Guna.UI2.WinForms.Guna2Button();
             this.btn_NhapHangQL = new Guna.UI2.WinForms.Guna2Button();
@@ -48,13 +48,13 @@
             this.btn_NhanVienQL = new Guna.UI2.WinForms.Guna2Button();
             this.btn_HangHoaQL = new Guna.UI2.WinForms.Guna2Button();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
-            this.toolTip1 = new System.Windows.Forms.ToolTip(this.components);
+            this.pictureBox2 = new System.Windows.Forms.PictureBox();
             this.guna2Panel1.SuspendLayout();
             this.guna2Panel3.SuspendLayout();
             this.guna2Panel2.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.box_out)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
             this.SuspendLayout();
             // 
             // guna2Panel1
@@ -116,8 +116,8 @@
             // guna2Panel2
             // 
             this.guna2Panel2.BackColor = System.Drawing.Color.LightBlue;
-            this.guna2Panel2.Controls.Add(this.label2);
             this.guna2Panel2.Controls.Add(this.pictureBox2);
+            this.guna2Panel2.Controls.Add(this.label2);
             this.guna2Panel2.Controls.Add(this.box_out);
             this.guna2Panel2.Location = new System.Drawing.Point(240, 2);
             this.guna2Panel2.Name = "guna2Panel2";
@@ -128,7 +128,7 @@
             // 
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Segoe UI", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label2.Location = new System.Drawing.Point(8, 12);
+            this.label2.Location = new System.Drawing.Point(8, 5);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(91, 31);
             this.label2.TabIndex = 9;
@@ -136,23 +136,10 @@
             // 
             // panelMain
             // 
-            this.panelMain.Location = new System.Drawing.Point(240, 76);
+            this.panelMain.Location = new System.Drawing.Point(240, 50);
             this.panelMain.Name = "panelMain";
-            this.panelMain.Size = new System.Drawing.Size(1048, 731);
+            this.panelMain.Size = new System.Drawing.Size(1048, 757);
             this.panelMain.TabIndex = 2;
-            // 
-            // pictureBox2
-            // 
-            this.pictureBox2.BackColor = System.Drawing.Color.LightBlue;
-            this.pictureBox2.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
-            this.pictureBox2.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox2.Image")));
-            this.pictureBox2.Location = new System.Drawing.Point(116, 6);
-            this.pictureBox2.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.pictureBox2.Name = "pictureBox2";
-            this.pictureBox2.Size = new System.Drawing.Size(44, 37);
-            this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox2.TabIndex = 7;
-            this.pictureBox2.TabStop = false;
             // 
             // box_out
             // 
@@ -160,7 +147,7 @@
             this.box_out.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
             this.box_out.Cursor = System.Windows.Forms.Cursors.Hand;
             this.box_out.Image = global::Quanlybanhang.Properties.Resources.pngtree_black_exit_icon_image_11303661;
-            this.box_out.Location = new System.Drawing.Point(980, 5);
+            this.box_out.Location = new System.Drawing.Point(988, 5);
             this.box_out.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.box_out.Name = "box_out";
             this.box_out.Size = new System.Drawing.Size(44, 38);
@@ -342,13 +329,24 @@
             this.pictureBox1.TabIndex = 2;
             this.pictureBox1.TabStop = false;
             // 
+            // pictureBox2
+            // 
+            this.pictureBox2.Image = global::Quanlybanhang.Properties.Resources.manager;
+            this.pictureBox2.Location = new System.Drawing.Point(96, 0);
+            this.pictureBox2.Name = "pictureBox2";
+            this.pictureBox2.Size = new System.Drawing.Size(60, 40);
+            this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox2.TabIndex = 10;
+            this.pictureBox2.TabStop = false;
+            // 
             // FormQuanLi
             // 
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.None;
-            this.ClientSize = new System.Drawing.Size(1292, 815);
+            this.ClientSize = new System.Drawing.Size(1293, 815);
             this.Controls.Add(this.panelMain);
             this.Controls.Add(this.guna2Panel2);
             this.Controls.Add(this.guna2Panel1);
+            this.MaximizeBox = false;
             this.Name = "FormQuanLi";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Quản Lí";
@@ -357,9 +355,9 @@
             this.guna2Panel3.ResumeLayout(false);
             this.guna2Panel2.ResumeLayout(false);
             this.guna2Panel2.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.box_out)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
             this.ResumeLayout(false);
 
         }
@@ -371,7 +369,6 @@
         private System.Windows.Forms.PictureBox pictureBox1;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.PictureBox box_out;
-        private System.Windows.Forms.PictureBox pictureBox2;
         private System.Windows.Forms.Label label2;
         private Guna.UI2.WinForms.Guna2Panel guna2Panel3;
         private Guna.UI2.WinForms.Guna2Button btn_HangHoaQL;
@@ -385,5 +382,6 @@
         private Guna.UI2.WinForms.Guna2Panel guna2Panel4;
         private Guna.UI2.WinForms.Guna2Panel panelMain;
         private System.Windows.Forms.ToolTip toolTip1;
+        private System.Windows.Forms.PictureBox pictureBox2;
     }
 }

@@ -203,6 +203,16 @@ namespace Quanlybanhang.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap manager {
+            get {
+                object obj = ResourceManager.GetObject("manager", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap minimize {
             get {
                 object obj = ResourceManager.GetObject("minimize", resourceCulture);
@@ -236,17 +246,6 @@ namespace Quanlybanhang.Properties {
         internal static System.Drawing.Bitmap pngtree_black_exit_icon_image_11303661 {
             get {
                 object obj = ResourceManager.GetObject("pngtree-black-exit-icon-image_11303661", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap pngtree_employee_icon_vector_illustration_in_glyph_style_for_any_purpose_png_image_998315 {
-            get {
-                object obj = ResourceManager.GetObject("pngtree-employee-icon-vector-illustration-in-glyph-style-for-any-purpose-png-imag" +
-                        "e_998315", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

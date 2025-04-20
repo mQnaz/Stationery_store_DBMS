@@ -8,6 +8,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using Quanlybanhang.GUI.UC;
 
 namespace Quanlybanhang.GUI
 {
@@ -23,15 +24,17 @@ namespace Quanlybanhang.GUI
 
         }
 
-        private void LoadFormToPanel(Form form)
+        
+            private void LoadFormToPanel(System.Windows.Forms.UserControl userControl)
         {
-            panelMain.Controls.Clear(); // Xóa form cũ nếu có
-            form.TopLevel = false;
-            form.FormBorderStyle = FormBorderStyle.None;
-            form.Dock = DockStyle.Fill;
-            panelMain.Controls.Add(form);
-            form.Show();
+            
+            panelMain.Controls.Clear();
+            userControl.Dock = DockStyle.Fill;
+            panelMain.Controls.Add(userControl);
+            userControl.BringToFront();
         }
+
+        
         private void MoveIndicator(Control button)
         {
             pnlIndicator.Top = button.Top;
@@ -42,31 +45,31 @@ namespace Quanlybanhang.GUI
         private void btn_HangHoaQL_Click(object sender, EventArgs e)
         {
             MoveIndicator(btn_HangHoaQL);
-            LoadFormToPanel(new FormHangHoa_QL());
+            LoadFormToPanel(new UserHangHoa_QL());    
         }
 
         private void btn_NhanVienQL_Click(object sender, EventArgs e)
         {
             MoveIndicator(btn_NhanVienQL);
-            LoadFormToPanel(new FormNhanVien_QL());
+            LoadFormToPanel(new UserNhanVien());
         }
 
         private void btn_KhachHangQL_Click(object sender, EventArgs e)
         {
             MoveIndicator(btn_KhachHangQL);
-            LoadFormToPanel(new FormKhachHang_QL());
+            //LoadFormToPanel(new FormKhachHang_QL());
         }
 
         private void btn_NhaCungCapQL_Click(object sender, EventArgs e)
         {
             MoveIndicator(btn_NhaCungCapQL);
-            LoadFormToPanel(new FormNhaCungCap_QL());
+            LoadFormToPanel(new UserNhaCungCap());
         }
 
         private void btn_BanHangQL_Click(object sender, EventArgs e)
         {
             MoveIndicator(btn_BanHangQL);
-            LoadFormToPanel(new FormChiTietBanHang_QL());
+            //LoadFormToPanel(new FormChiTietBanHang_QL());
         }
 
         private void box_out_Click(object sender, EventArgs e)

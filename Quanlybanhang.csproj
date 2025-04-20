@@ -138,11 +138,23 @@
     <Compile Include="GUI\FormQuanLi.Designer.cs">
       <DependentUpon>FormQuanLi.cs</DependentUpon>
     </Compile>
-    <Compile Include="GUI\UserHangHoa_QL.cs">
+    <Compile Include="GUI\UC\UserHangHoa_QL.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Include="GUI\UserHangHoa_QL.Designer.cs">
+    <Compile Include="GUI\UC\UserHangHoa_QL.Designer.cs">
       <DependentUpon>UserHangHoa_QL.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\UC\UserNhaCungCap.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="GUI\UC\UserNhaCungCap.Designer.cs">
+      <DependentUpon>UserNhaCungCap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\UC\UserNhanVien.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="GUI\UC\UserNhanVien.Designer.cs">
+      <DependentUpon>UserNhanVien.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -176,8 +188,14 @@
     <EmbeddedResource Include="GUI\FormQuanLi.resx">
       <DependentUpon>FormQuanLi.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="GUI\UserHangHoa_QL.resx">
+    <EmbeddedResource Include="GUI\UC\UserHangHoa_QL.resx">
       <DependentUpon>UserHangHoa_QL.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\UC\UserNhaCungCap.resx">
+      <DependentUpon>UserNhaCungCap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\UC\UserNhanVien.resx">
+      <DependentUpon>UserNhanVien.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -277,6 +295,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\hanghoa.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\manager.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

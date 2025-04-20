@@ -8,11 +8,12 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Quanlybanhang.GUI
+
+namespace Quanlybanhang.GUI.UC
 {
-    public partial class UserHangHoa_QL : UserControl
+    public partial class UserNhaCungCap : System.Windows.Forms.UserControl
     {
-        public UserHangHoa_QL()
+        public UserNhaCungCap()
         {
             InitializeComponent();
         }
