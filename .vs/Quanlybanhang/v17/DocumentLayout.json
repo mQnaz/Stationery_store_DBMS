@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{24842783-280B-45E3-B9B7-99DC4544E44A}|Quanlybanhang.csproj|solutionrelative:gui\\userhanghoa_ql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{24842783-280B-45E3-B9B7-99DC4544E44A}|Quanlybanhang.csproj|c:\\users\\asus\\onedrive\\ute\\semester 4\\databasemanagementsystem\\quanlybanhang\\quanlybanhang_codto\\quanlibanhang_5form\\gui\\formquanli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{24842783-280B-45E3-B9B7-99DC4544E44A}|Quanlybanhang.csproj|C:\\Users\\ASUS\\OneDrive\\UTE\\Semester 4\\DatabaseManagementSystem\\Quanlybanhang\\Quanlybanhang_coDTO\\QuanLiBanHang_5Form\\gui\\formquanli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{24842783-280B-45E3-B9B7-99DC4544E44A}|Quanlybanhang.csproj|solutionrelative:gui\\formquanli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -22,16 +22,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{26341fe2-71dd-46fd-bb1b-2e51a92a0d64}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -54,8 +46,7 @@
               "RelativeToolTip": "GUI\\FormQuanLi.cs",
               "ViewState": "AgIAADgAAAAAAAAAAAAewE4AAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-19T11:12:21.722Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-19T11:12:21.722Z"
             },
             {
               "$type": "Document",
@@ -67,8 +58,7 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "OverriddenGroupName": "GUI",
               "OverriddenToolTip": "GUI/FormQuanLi.cs",
-              "WhenOpened": "2025-04-19T11:07:13.964Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-04-19T11:07:13.964Z"
             }
           ]
         }
