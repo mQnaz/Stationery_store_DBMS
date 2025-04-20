@@ -78,6 +78,18 @@
     <Compile Include="GUI\FormChiTietBanHang_QL.Designer.cs">
       <DependentUpon>FormChiTietBanHang_QL.cs</DependentUpon>
     </Compile>
+    <Compile Include="GUI\FormChitietHH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\FormChitietHH.Designer.cs">
+      <DependentUpon>FormChitietHH.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\FormGiamGia_HH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\FormGiamGia_HH.Designer.cs">
+      <DependentUpon>FormGiamGia_HH.cs</DependentUpon>
+    </Compile>
     <Compile Include="GUI\FormKhachHang_QL.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -126,6 +138,12 @@
     <Compile Include="GUI\FormQuanLi.Designer.cs">
       <DependentUpon>FormQuanLi.cs</DependentUpon>
     </Compile>
+    <Compile Include="GUI\UserHangHoa_QL.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="GUI\UserHangHoa_QL.Designer.cs">
+      <DependentUpon>UserHangHoa_QL.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="GUI\FormChiTietBanHang_QL.resx">
@@ -133,6 +151,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="GUI\FormDangNhap.resx">
       <DependentUpon>FormDangNhap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\FormGiamGia_HH.resx">
+      <DependentUpon>FormGiamGia_HH.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="GUI\FormHangHoa_QL.resx">
       <DependentUpon>FormHangHoa_QL.cs</DependentUpon>
@@ -154,6 +175,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="GUI\FormQuanLi.resx">
       <DependentUpon>FormQuanLi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\UserHangHoa_QL.resx">
+      <DependentUpon>UserHangHoa_QL.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

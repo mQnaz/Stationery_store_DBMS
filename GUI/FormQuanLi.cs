@@ -68,5 +68,15 @@ namespace Quanlybanhang.GUI
             MoveIndicator(btn_BanHangQL);
             LoadFormToPanel(new FormChiTietBanHang_QL());
         }
+
+        private void box_out_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
+
+        private void box_out_MouseHover(object sender, EventArgs e)
+        {
+            toolTip1.SetToolTip(box_out, "Nhấn để thoát");
+        }
     }
 }

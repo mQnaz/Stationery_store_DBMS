@@ -3,12 +3,47 @@
   "WorkspaceRootPath": "C:\\Users\\ASUS\\OneDrive\\UTE\\Semester 4\\DatabaseManagementSystem\\Quanlybanhang\\Quanlybanhang_coDTO\\QuanLiBanHang_5Form\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{24842783-280B-45E3-B9B7-99DC4544E44A}|Quanlybanhang.csproj|C:\\Users\\ASUS\\OneDrive\\UTE\\Semester 4\\DatabaseManagementSystem\\Quanlybanhang\\Quanlybanhang_coDTO\\QuanLiBanHang_5Form\\gui\\formkhachhang_ql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{24842783-280B-45E3-B9B7-99DC4544E44A}|Quanlybanhang.csproj|solutionrelative:gui\\formkhachhang_ql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{24842783-280B-45E3-B9B7-99DC4544E44A}|Quanlybanhang.csproj|C:\\Users\\ASUS\\OneDrive\\UTE\\Semester 4\\DatabaseManagementSystem\\Quanlybanhang\\Quanlybanhang_coDTO\\QuanLiBanHang_5Form\\gui\\formquanli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{24842783-280B-45E3-B9B7-99DC4544E44A}|Quanlybanhang.csproj|solutionrelative:gui\\formquanli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{24842783-280B-45E3-B9B7-99DC4544E44A}|Quanlybanhang.csproj|c:\\users\\asus\\onedrive\\ute\\semester 4\\databasemanagementsystem\\quanlybanhang\\quanlybanhang_codto\\quanlibanhang_5form\\gui\\formdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{24842783-280B-45E3-B9B7-99DC4544E44A}|Quanlybanhang.csproj|C:\\Users\\ASUS\\OneDrive\\UTE\\Semester 4\\DatabaseManagementSystem\\Quanlybanhang\\Quanlybanhang_coDTO\\QuanLiBanHang_5Form\\gui\\formhanghoa_ql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{24842783-280B-45E3-B9B7-99DC4544E44A}|Quanlybanhang.csproj|solutionrelative:gui\\formhanghoa_ql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24842783-280B-45E3-B9B7-99DC4544E44A}|Quanlybanhang.csproj|C:\\Users\\ASUS\\OneDrive\\UTE\\Semester 4\\DatabaseManagementSystem\\Quanlybanhang\\Quanlybanhang_coDTO\\QuanLiBanHang_5Form\\gui\\formnhanvien_ql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{24842783-280B-45E3-B9B7-99DC4544E44A}|Quanlybanhang.csproj|solutionrelative:gui\\formnhanvien_ql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24842783-280B-45E3-B9B7-99DC4544E44A}|Quanlybanhang.csproj|c:\\users\\asus\\onedrive\\ute\\semester 4\\databasemanagementsystem\\quanlybanhang\\quanlybanhang_codto\\quanlibanhang_5form\\gui\\formhanghoa_ql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24842783-280B-45E3-B9B7-99DC4544E44A}|Quanlybanhang.csproj|solutionrelative:gui\\formhanghoa_ql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24842783-280B-45E3-B9B7-99DC4544E44A}|Quanlybanhang.csproj|c:\\users\\asus\\onedrive\\ute\\semester 4\\databasemanagementsystem\\quanlybanhang\\quanlybanhang_codto\\quanlibanhang_5form\\gui\\formgiamgia_hh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{24842783-280B-45E3-B9B7-99DC4544E44A}|Quanlybanhang.csproj|solutionrelative:gui\\formgiamgia_hh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24842783-280B-45E3-B9B7-99DC4544E44A}|Quanlybanhang.csproj|c:\\users\\asus\\onedrive\\ute\\semester 4\\databasemanagementsystem\\quanlybanhang\\quanlybanhang_codto\\quanlibanhang_5form\\gui\\formgiamgia_hh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24842783-280B-45E3-B9B7-99DC4544E44A}|Quanlybanhang.csproj|solutionrelative:gui\\formgiamgia_hh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24842783-280B-45E3-B9B7-99DC4544E44A}|Quanlybanhang.csproj|C:\\Users\\ASUS\\OneDrive\\UTE\\Semester 4\\DatabaseManagementSystem\\Quanlybanhang\\Quanlybanhang_coDTO\\QuanLiBanHang_5Form\\gui\\formquanli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24842783-280B-45E3-B9B7-99DC4544E44A}|Quanlybanhang.csproj|solutionrelative:gui\\formquanli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24842783-280B-45E3-B9B7-99DC4544E44A}|Quanlybanhang.csproj|c:\\users\\asus\\onedrive\\ute\\semester 4\\databasemanagementsystem\\quanlybanhang\\quanlybanhang_codto\\quanlibanhang_5form\\gui\\formchitiethh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{24842783-280B-45E3-B9B7-99DC4544E44A}|Quanlybanhang.csproj|solutionrelative:gui\\formchitiethh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24842783-280B-45E3-B9B7-99DC4544E44A}|Quanlybanhang.csproj|C:\\Users\\ASUS\\OneDrive\\UTE\\Semester 4\\DatabaseManagementSystem\\Quanlybanhang\\Quanlybanhang_coDTO\\QuanLiBanHang_5Form\\gui\\formdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{24842783-280B-45E3-B9B7-99DC4544E44A}|Quanlybanhang.csproj|solutionrelative:gui\\formdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\OneDrive\\UTE\\Semester 4\\DatabaseManagementSystem\\Quanlybanhang\\Quanlybanhang_coDTO\\QuanLiBanHang\\GUI\\FormHangHoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24842783-280B-45E3-B9B7-99DC4544E44A}|Quanlybanhang.csproj|C:\\Users\\ASUS\\OneDrive\\UTE\\Semester 4\\DatabaseManagementSystem\\Quanlybanhang\\Quanlybanhang_coDTO\\QuanLiBanHang_5Form\\gui\\formkhachhang_ql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{24842783-280B-45E3-B9B7-99DC4544E44A}|Quanlybanhang.csproj|solutionrelative:gui\\formkhachhang_ql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{24842783-280B-45E3-B9B7-99DC4544E44A}|Quanlybanhang.csproj|C:\\Users\\ASUS\\OneDrive\\UTE\\Semester 4\\DatabaseManagementSystem\\Quanlybanhang\\Quanlybanhang_coDTO\\QuanLiBanHang_5Form\\GUI\\FormDangNhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,24 +54,8 @@
       "RelativeMoniker": "D:0:0:{24842783-280B-45E3-B9B7-99DC4544E44A}|Quanlybanhang.csproj|solutionrelative:gui\\formchitietbanhang_ql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{24842783-280B-45E3-B9B7-99DC4544E44A}|Quanlybanhang.csproj|C:\\Users\\ASUS\\OneDrive\\UTE\\Semester 4\\DatabaseManagementSystem\\Quanlybanhang\\Quanlybanhang_coDTO\\QuanLiBanHang_5Form\\gui\\formnhanvien_ql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{24842783-280B-45E3-B9B7-99DC4544E44A}|Quanlybanhang.csproj|solutionrelative:gui\\formnhanvien_ql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{24842783-280B-45E3-B9B7-99DC4544E44A}|Quanlybanhang.csproj|C:\\Users\\ASUS\\OneDrive\\UTE\\Semester 4\\DatabaseManagementSystem\\Quanlybanhang\\Quanlybanhang_coDTO\\QuanLiBanHang_5Form\\gui\\formnhacungcap_ql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{24842783-280B-45E3-B9B7-99DC4544E44A}|Quanlybanhang.csproj|solutionrelative:gui\\formnhacungcap_ql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24842783-280B-45E3-B9B7-99DC4544E44A}|Quanlybanhang.csproj|C:\\Users\\ASUS\\OneDrive\\UTE\\Semester 4\\DatabaseManagementSystem\\Quanlybanhang\\Quanlybanhang_coDTO\\QuanLiBanHang_5Form\\gui\\formhanghoa_ql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{24842783-280B-45E3-B9B7-99DC4544E44A}|Quanlybanhang.csproj|solutionrelative:gui\\formhanghoa_ql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24842783-280B-45E3-B9B7-99DC4544E44A}|Quanlybanhang.csproj|C:\\Users\\ASUS\\OneDrive\\UTE\\Semester 4\\DatabaseManagementSystem\\Quanlybanhang\\Quanlybanhang_coDTO\\QuanLiBanHang_5Form\\gui\\formquanli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{24842783-280B-45E3-B9B7-99DC4544E44A}|Quanlybanhang.csproj|solutionrelative:gui\\formquanli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24842783-280B-45E3-B9B7-99DC4544E44A}|Quanlybanhang.csproj|C:\\Users\\ASUS\\OneDrive\\UTE\\Semester 4\\DatabaseManagementSystem\\Quanlybanhang\\Quanlybanhang_coDTO\\QuanLiBanHang_5Form\\gui\\formquanli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24842783-280B-45E3-B9B7-99DC4544E44A}|Quanlybanhang.csproj|solutionrelative:gui\\formquanli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{24842783-280B-45E3-B9B7-99DC4544E44A}|Quanlybanhang.csproj|C:\\Users\\ASUS\\OneDrive\\UTE\\Semester 4\\DatabaseManagementSystem\\Quanlybanhang\\Quanlybanhang_coDTO\\QuanLiBanHang_5Form\\gui\\formnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -48,13 +67,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{24842783-280B-45E3-B9B7-99DC4544E44A}|Quanlybanhang.csproj|C:\\Users\\ASUS\\OneDrive\\UTE\\Semester 4\\DatabaseManagementSystem\\Quanlybanhang\\Quanlybanhang_coDTO\\QuanLiBanHang_5Form\\DTO\\DTO_HangHoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{24842783-280B-45E3-B9B7-99DC4544E44A}|Quanlybanhang.csproj|solutionrelative:DTO\\DTO_HangHoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24842783-280B-45E3-B9B7-99DC4544E44A}|Quanlybanhang.csproj|C:\\Users\\ASUS\\OneDrive\\UTE\\Semester 4\\DatabaseManagementSystem\\Quanlybanhang\\Quanlybanhang_coDTO\\QuanLiBanHang_5Form\\DTO\\DTO_ChiTietNhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24842783-280B-45E3-B9B7-99DC4544E44A}|Quanlybanhang.csproj|solutionrelative:DTO\\DTO_ChiTietNhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\OneDrive\\UTE\\Semester 4\\DatabaseManagementSystem\\Quanlybanhang\\Quanlybanhang_coDTO\\QuanLiBanHang\\GUI\\FormHangHoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\OneDrive\\UTE\\Semester 4\\DatabaseManagementSystem\\Quanlybanhang\\Quanlybanhang_coDTO\\QuanLiBanHang\\gui\\formhanghoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
@@ -74,35 +86,73 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "DTO_ChiTietNhap.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\UTE\\Semester 4\\DatabaseManagementSystem\\Quanlybanhang\\Quanlybanhang_coDTO\\QuanLiBanHang_5Form\\DTO\\DTO_ChiTietNhap.cs",
-              "RelativeDocumentMoniker": "DTO\\DTO_ChiTietNhap.cs",
-              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\UTE\\Semester 4\\DatabaseManagementSystem\\Quanlybanhang\\Quanlybanhang_coDTO\\QuanLiBanHang_5Form\\DTO\\DTO_ChiTietNhap.cs",
-              "RelativeToolTip": "DTO\\DTO_ChiTietNhap.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "FormChitietHH.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\UTE\\Semester 4\\DatabaseManagementSystem\\Quanlybanhang\\Quanlybanhang_coDTO\\QuanLiBanHang_5Form\\GUI\\FormChitietHH.cs",
+              "RelativeDocumentMoniker": "GUI\\FormChitietHH.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\UTE\\Semester 4\\DatabaseManagementSystem\\Quanlybanhang\\Quanlybanhang_coDTO\\QuanLiBanHang_5Form\\GUI\\FormChitietHH.cs [Design]",
+              "RelativeToolTip": "GUI\\FormChitietHH.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T18:12:52.26Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "FormNhanVien_QL.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\UTE\\Semester 4\\DatabaseManagementSystem\\Quanlybanhang\\Quanlybanhang_coDTO\\QuanLiBanHang_5Form\\GUI\\FormNhanVien_QL.cs",
-              "RelativeDocumentMoniker": "GUI\\FormNhanVien_QL.cs",
-              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\UTE\\Semester 4\\DatabaseManagementSystem\\Quanlybanhang\\Quanlybanhang_coDTO\\QuanLiBanHang\\GUI\\FormNhanVien_QL.cs [Design]",
-              "RelativeToolTip": "..\\QuanLiBanHang\\GUI\\FormNhanVien_QL.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-19T12:49:37.218Z"
+              "WhenOpened": "2025-04-20T07:15:43.911Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "FormGiamGia_HH.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\UTE\\Semester 4\\DatabaseManagementSystem\\Quanlybanhang\\Quanlybanhang_coDTO\\QuanLiBanHang_5Form\\GUI\\FormGiamGia_HH.cs",
+              "RelativeDocumentMoniker": "GUI\\FormGiamGia_HH.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\UTE\\Semester 4\\DatabaseManagementSystem\\Quanlybanhang\\Quanlybanhang_coDTO\\QuanLiBanHang_5Form\\GUI\\FormGiamGia_HH.cs",
+              "RelativeToolTip": "GUI\\FormGiamGia_HH.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T07:05:12.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormGiamGia_HH.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\UTE\\Semester 4\\DatabaseManagementSystem\\Quanlybanhang\\Quanlybanhang_coDTO\\QuanLiBanHang_5Form\\GUI\\FormGiamGia_HH.cs",
+              "RelativeDocumentMoniker": "GUI\\FormGiamGia_HH.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\UTE\\Semester 4\\DatabaseManagementSystem\\Quanlybanhang\\Quanlybanhang_coDTO\\QuanLiBanHang_5Form\\GUI\\FormGiamGia_HH.cs [Design]",
+              "RelativeToolTip": "GUI\\FormGiamGia_HH.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T06:37:54.608Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormHangHoa_QL.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\UTE\\Semester 4\\DatabaseManagementSystem\\Quanlybanhang\\Quanlybanhang_coDTO\\QuanLiBanHang_5Form\\GUI\\FormHangHoa_QL.cs",
+              "RelativeDocumentMoniker": "GUI\\FormHangHoa_QL.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\UTE\\Semester 4\\DatabaseManagementSystem\\Quanlybanhang\\Quanlybanhang_coDTO\\QuanLiBanHang_5Form\\GUI\\FormHangHoa_QL.cs",
+              "RelativeToolTip": "GUI\\FormHangHoa_QL.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAjwCEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T06:34:37.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormNhanVien_QL.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\UTE\\Semester 4\\DatabaseManagementSystem\\Quanlybanhang\\Quanlybanhang_coDTO\\QuanLiBanHang_5Form\\GUI\\FormNhanVien_QL.cs",
+              "RelativeDocumentMoniker": "GUI\\FormNhanVien_QL.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\UTE\\Semester 4\\DatabaseManagementSystem\\Quanlybanhang\\Quanlybanhang_coDTO\\QuanLiBanHang_5Form\\GUI\\FormNhanVien_QL.cs [Design]",
+              "RelativeToolTip": "GUI\\FormNhanVien_QL.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T12:49:37.218Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "FormNhaCungCap_QL.cs [Design]",
               "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\UTE\\Semester 4\\DatabaseManagementSystem\\Quanlybanhang\\Quanlybanhang_coDTO\\QuanLiBanHang_5Form\\GUI\\FormNhaCungCap_QL.cs",
               "RelativeDocumentMoniker": "GUI\\FormNhaCungCap_QL.cs",
@@ -113,30 +163,30 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 10,
               "Title": "FormKhachHang_QL.cs [Design]",
               "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\UTE\\Semester 4\\DatabaseManagementSystem\\Quanlybanhang\\Quanlybanhang_coDTO\\QuanLiBanHang_5Form\\GUI\\FormKhachHang_QL.cs",
               "RelativeDocumentMoniker": "GUI\\FormKhachHang_QL.cs",
-              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\UTE\\Semester 4\\DatabaseManagementSystem\\Quanlybanhang\\Quanlybanhang_coDTO\\QuanLiBanHang_5Form\\GUI\\FormKhachHang_QL.cs [Design]*",
-              "RelativeToolTip": "GUI\\FormKhachHang_QL.cs [Design]*",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\UTE\\Semester 4\\DatabaseManagementSystem\\Quanlybanhang\\Quanlybanhang_coDTO\\QuanLiBanHang_5Form\\GUI\\FormKhachHang_QL.cs [Design]",
+              "RelativeToolTip": "GUI\\FormKhachHang_QL.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-19T12:49:35.402Z",
+              "WhenOpened": "2025-04-19T12:49:35.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormHangHoa_QL.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\UTE\\Semester 4\\DatabaseManagementSystem\\Quanlybanhang\\Quanlybanhang_coDTO\\QuanLiBanHang_5Form\\GUI\\FormHangHoa_QL.cs",
+              "RelativeDocumentMoniker": "GUI\\FormHangHoa_QL.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\UTE\\Semester 4\\DatabaseManagementSystem\\Quanlybanhang\\Quanlybanhang_coDTO\\QuanLiBanHang_5Form\\GUI\\FormHangHoa_QL.cs [Design]",
+              "RelativeToolTip": "GUI\\FormHangHoa_QL.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T12:49:34.442Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "FormHangHoa_QL.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\UTE\\Semester 4\\DatabaseManagementSystem\\Quanlybanhang\\Quanlybanhang_coDTO\\QuanLiBanHang_5Form\\GUI\\FormHangHoa_QL.cs",
-              "RelativeDocumentMoniker": "GUI\\FormHangHoa_QL.cs",
-              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\UTE\\Semester 4\\DatabaseManagementSystem\\Quanlybanhang\\Quanlybanhang_coDTO\\QuanLiBanHang\\GUI\\FormHangHoa_QL.cs [Design]",
-              "RelativeToolTip": "..\\QuanLiBanHang\\GUI\\FormHangHoa_QL.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-19T12:49:34.442Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 12,
               "Title": "FormChiTietBanHang_QL.cs [Design]",
               "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\UTE\\Semester 4\\DatabaseManagementSystem\\Quanlybanhang\\Quanlybanhang_coDTO\\QuanLiBanHang_5Form\\GUI\\FormChiTietBanHang_QL.cs",
               "RelativeDocumentMoniker": "GUI\\FormChiTietBanHang_QL.cs",
@@ -147,7 +197,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 9,
               "Title": "FormHangHoa.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\UTE\\Semester 4\\DatabaseManagementSystem\\Quanlybanhang\\Quanlybanhang_coDTO\\QuanLiBanHang\\GUI\\FormHangHoa.cs",
               "RelativeDocumentMoniker": "..\\QuanLiBanHang\\GUI\\FormHangHoa.cs",
@@ -158,19 +208,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 6,
               "Title": "FormQuanLi.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\UTE\\Semester 4\\DatabaseManagementSystem\\Quanlybanhang\\Quanlybanhang_coDTO\\QuanLiBanHang_5Form\\GUI\\FormQuanLi.cs",
               "RelativeDocumentMoniker": "GUI\\FormQuanLi.cs",
               "ToolTip": "C:\\Users\\ASUS\\OneDrive\\UTE\\Semester 4\\DatabaseManagementSystem\\Quanlybanhang\\Quanlybanhang_coDTO\\QuanLiBanHang_5Form\\GUI\\FormQuanLi.cs",
               "RelativeToolTip": "GUI\\FormQuanLi.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAtwCgAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAADgAAAAAAAAAAAAewE4AAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-19T11:12:21.722Z"
+              "WhenOpened": "2025-04-19T11:12:21.722Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 14,
               "Title": "FormNhanVien.cs [Design]",
               "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\UTE\\Semester 4\\DatabaseManagementSystem\\Quanlybanhang\\Quanlybanhang_coDTO\\QuanLiBanHang_5Form\\GUI\\FormNhanVien.cs",
               "RelativeDocumentMoniker": "GUI\\FormNhanVien.cs",
@@ -181,18 +232,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
               "Title": "FormQuanLi.cs [Design]",
               "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\UTE\\Semester 4\\DatabaseManagementSystem\\Quanlybanhang\\Quanlybanhang_coDTO\\QuanLiBanHang_5Form\\GUI\\FormQuanLi.cs",
               "RelativeDocumentMoniker": "GUI\\FormQuanLi.cs",
-              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\UTE\\Semester 4\\DatabaseManagementSystem\\Quanlybanhang\\Quanlybanhang_coDTO\\QuanLiBanHang\\GUI\\FormQuanLi.cs [Design]",
-              "RelativeToolTip": "..\\QuanLiBanHang\\GUI\\FormQuanLi.cs [Design]",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\UTE\\Semester 4\\DatabaseManagementSystem\\Quanlybanhang\\Quanlybanhang_coDTO\\QuanLiBanHang_5Form\\GUI\\FormQuanLi.cs [Design]",
+              "RelativeToolTip": "GUI\\FormQuanLi.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-19T11:07:13.964Z"
+              "WhenOpened": "2025-04-19T11:07:13.964Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "FormHangHoa.cs [Design]",
               "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\UTE\\Semester 4\\DatabaseManagementSystem\\Quanlybanhang\\Quanlybanhang_coDTO\\QuanLiBanHang\\GUI\\FormHangHoa.cs",
               "RelativeDocumentMoniker": "..\\QuanLiBanHang\\GUI\\FormHangHoa.cs",
@@ -203,7 +255,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "FormDangNhap.cs [Design]",
               "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\UTE\\Semester 4\\DatabaseManagementSystem\\Quanlybanhang\\Quanlybanhang_coDTO\\QuanLiBanHang_5Form\\GUI\\FormDangNhap.cs",
               "RelativeDocumentMoniker": "GUI\\FormDangNhap.cs",
@@ -215,7 +267,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 16,
               "Title": "DTO_HangHoa.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\UTE\\Semester 4\\DatabaseManagementSystem\\Quanlybanhang\\Quanlybanhang_coDTO\\QuanLiBanHang_5Form\\DTO\\DTO_HangHoa.cs",
               "RelativeDocumentMoniker": "DTO\\DTO_HangHoa.cs",
@@ -227,7 +279,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "FormChiTietHoaDon.cs [Design]",
               "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\UTE\\Semester 4\\DatabaseManagementSystem\\Quanlybanhang\\Quanlybanhang_coDTO\\QuanLiBanHang\\GUI\\FormChiTietHoaDon.cs",
               "RelativeDocumentMoniker": "..\\QuanLiBanHang\\GUI\\FormChiTietHoaDon.cs",
@@ -238,7 +290,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 19,
               "Title": "FormMain.cs [Design]",
               "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\UTE\\Semester 4\\DatabaseManagementSystem\\Quanlybanhang\\Quanlybanhang_coDTO\\QuanLiBanHang_5Form\\GUI\\FormMain.cs",
               "RelativeDocumentMoniker": "GUI\\FormMain.cs",
@@ -249,7 +301,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 15,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\UTE\\Semester 4\\Database Management System\\Quanlybanhang\\Quanlybanhang\\Form1.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\Database Management System\\Quanlybanhang\\Quanlybanhang\\Form1.cs",
@@ -260,7 +312,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 11,
               "Title": "FormDangNhap.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\UTE\\Semester 4\\DatabaseManagementSystem\\Quanlybanhang\\Quanlybanhang_coDTO\\QuanLiBanHang_5Form\\GUI\\FormDangNhap.cs",
               "RelativeDocumentMoniker": "GUI\\FormDangNhap.cs",
@@ -268,7 +320,8 @@
               "RelativeToolTip": "GUI\\FormDangNhap.cs",
               "ViewState": "AgIAADAAAAAAAAAAAAAiwDwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T15:15:35.171Z"
+              "WhenOpened": "2025-04-12T15:15:35.171Z",
+              "EditorCaption": ""
             }
           ]
         }

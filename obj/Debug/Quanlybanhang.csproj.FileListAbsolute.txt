@@ -68,3 +68,4 @@ C:\Users\ASUS\OneDrive\UTE\Semester 4\DatabaseManagementSystem\Quanlybanhang\Qua
 C:\Users\ASUS\OneDrive\UTE\Semester 4\DatabaseManagementSystem\Quanlybanhang\Quanlybanhang_coDTO\QuanLiBanHang_5Form\obj\Debug\Quanlyba.B0670C86.Up2Date
 C:\Users\ASUS\OneDrive\UTE\Semester 4\DatabaseManagementSystem\Quanlybanhang\Quanlybanhang_coDTO\QuanLiBanHang_5Form\obj\Debug\Quanlybanhang.exe
 C:\Users\ASUS\OneDrive\UTE\Semester 4\DatabaseManagementSystem\Quanlybanhang\Quanlybanhang_coDTO\QuanLiBanHang_5Form\obj\Debug\Quanlybanhang.pdb
+C:\Users\ASUS\OneDrive\UTE\Semester 4\DatabaseManagementSystem\Quanlybanhang\Quanlybanhang_coDTO\QuanLiBanHang_5Form\obj\Debug\Quanlybanhang.GUI.FormGiamGia_HH.resources

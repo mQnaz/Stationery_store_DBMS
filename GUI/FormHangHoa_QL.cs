@@ -21,5 +21,17 @@ namespace Quanlybanhang.GUI
         {
 
         }
+
+        private void btn_GiamGia_HH_Click(object sender, EventArgs e)
+        {
+            FormGiamGia_HH formGiamGia = new FormGiamGia_HH();
+            formGiamGia.ShowDialog();
+        }
+
+        private void btn_ChitietHH_Click(object sender, EventArgs e)
+        {
+            FormChitietHH formChitietHH = new FormChitietHH();
+            formChitietHH.ShowDialog();
+        }
     }
 }

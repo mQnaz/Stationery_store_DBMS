@@ -28,32 +28,33 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.components = new System.ComponentModel.Container();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FormQuanLi));
             this.guna2Panel1 = new Guna.UI2.WinForms.Guna2Panel();
+            this.pnlIndicator = new Guna.UI2.WinForms.Guna2Panel();
+            this.guna2Panel3 = new Guna.UI2.WinForms.Guna2Panel();
+            this.guna2Panel4 = new Guna.UI2.WinForms.Guna2Panel();
+            this.label1 = new System.Windows.Forms.Label();
+            this.guna2Panel2 = new Guna.UI2.WinForms.Guna2Panel();
+            this.label2 = new System.Windows.Forms.Label();
+            this.panelMain = new Guna.UI2.WinForms.Guna2Panel();
+            this.pictureBox2 = new System.Windows.Forms.PictureBox();
+            this.box_out = new System.Windows.Forms.PictureBox();
             this.btn_ThongKeQL = new Guna.UI2.WinForms.Guna2Button();
             this.btn_NhapHangQL = new Guna.UI2.WinForms.Guna2Button();
             this.btn_BanHangQL = new Guna.UI2.WinForms.Guna2Button();
             this.btn_NhaCungCapQL = new Guna.UI2.WinForms.Guna2Button();
             this.btn_KhachHangQL = new Guna.UI2.WinForms.Guna2Button();
             this.btn_NhanVienQL = new Guna.UI2.WinForms.Guna2Button();
-            this.pnlIndicator = new Guna.UI2.WinForms.Guna2Panel();
             this.btn_HangHoaQL = new Guna.UI2.WinForms.Guna2Button();
-            this.guna2Panel3 = new Guna.UI2.WinForms.Guna2Panel();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
-            this.label1 = new System.Windows.Forms.Label();
-            this.guna2Panel2 = new Guna.UI2.WinForms.Guna2Panel();
-            this.label2 = new System.Windows.Forms.Label();
-            this.lb_TenQL = new System.Windows.Forms.Label();
-            this.pictureBox2 = new System.Windows.Forms.PictureBox();
-            this.pictureBox3 = new System.Windows.Forms.PictureBox();
-            this.guna2Panel4 = new Guna.UI2.WinForms.Guna2Panel();
-            this.panelMain = new Guna.UI2.WinForms.Guna2Panel();
+            this.toolTip1 = new System.Windows.Forms.ToolTip(this.components);
             this.guna2Panel1.SuspendLayout();
             this.guna2Panel3.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.guna2Panel2.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.box_out)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
             // guna2Panel1
@@ -70,8 +71,104 @@
             this.guna2Panel1.Controls.Add(this.guna2Panel3);
             this.guna2Panel1.Location = new System.Drawing.Point(0, 0);
             this.guna2Panel1.Name = "guna2Panel1";
-            this.guna2Panel1.Size = new System.Drawing.Size(240, 786);
+            this.guna2Panel1.Size = new System.Drawing.Size(240, 807);
             this.guna2Panel1.TabIndex = 0;
+            // 
+            // pnlIndicator
+            // 
+            this.pnlIndicator.BackColor = System.Drawing.Color.White;
+            this.pnlIndicator.BorderColor = System.Drawing.Color.White;
+            this.pnlIndicator.BorderRadius = 10;
+            this.pnlIndicator.Location = new System.Drawing.Point(3, 164);
+            this.pnlIndicator.Name = "pnlIndicator";
+            this.pnlIndicator.Size = new System.Drawing.Size(7, 56);
+            this.pnlIndicator.TabIndex = 2;
+            // 
+            // guna2Panel3
+            // 
+            this.guna2Panel3.BackColor = System.Drawing.Color.SteelBlue;
+            this.guna2Panel3.Controls.Add(this.guna2Panel4);
+            this.guna2Panel3.Controls.Add(this.pictureBox1);
+            this.guna2Panel3.Controls.Add(this.label1);
+            this.guna2Panel3.Location = new System.Drawing.Point(0, 3);
+            this.guna2Panel3.Name = "guna2Panel3";
+            this.guna2Panel3.Size = new System.Drawing.Size(242, 146);
+            this.guna2Panel3.TabIndex = 2;
+            // 
+            // guna2Panel4
+            // 
+            this.guna2Panel4.Location = new System.Drawing.Point(240, 73);
+            this.guna2Panel4.Name = "guna2Panel4";
+            this.guna2Panel4.Size = new System.Drawing.Size(1264, 690);
+            this.guna2Panel4.TabIndex = 2;
+            // 
+            // label1
+            // 
+            this.label1.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.ForeColor = System.Drawing.SystemColors.Window;
+            this.label1.Location = new System.Drawing.Point(9, 104);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(216, 24);
+            this.label1.TabIndex = 3;
+            this.label1.Text = "STATIONERY STORE";
+            this.label1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            // 
+            // guna2Panel2
+            // 
+            this.guna2Panel2.BackColor = System.Drawing.Color.LightBlue;
+            this.guna2Panel2.Controls.Add(this.label2);
+            this.guna2Panel2.Controls.Add(this.pictureBox2);
+            this.guna2Panel2.Controls.Add(this.box_out);
+            this.guna2Panel2.Location = new System.Drawing.Point(240, 2);
+            this.guna2Panel2.Name = "guna2Panel2";
+            this.guna2Panel2.Size = new System.Drawing.Size(1048, 54);
+            this.guna2Panel2.TabIndex = 1;
+            // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.Font = new System.Drawing.Font("Segoe UI", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label2.Location = new System.Drawing.Point(8, 12);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(91, 31);
+            this.label2.TabIndex = 9;
+            this.label2.Text = "Quản lí";
+            // 
+            // panelMain
+            // 
+            this.panelMain.Location = new System.Drawing.Point(240, 76);
+            this.panelMain.Name = "panelMain";
+            this.panelMain.Size = new System.Drawing.Size(1048, 731);
+            this.panelMain.TabIndex = 2;
+            // 
+            // pictureBox2
+            // 
+            this.pictureBox2.BackColor = System.Drawing.Color.LightBlue;
+            this.pictureBox2.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
+            this.pictureBox2.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox2.Image")));
+            this.pictureBox2.Location = new System.Drawing.Point(116, 6);
+            this.pictureBox2.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.pictureBox2.Name = "pictureBox2";
+            this.pictureBox2.Size = new System.Drawing.Size(44, 37);
+            this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox2.TabIndex = 7;
+            this.pictureBox2.TabStop = false;
+            // 
+            // box_out
+            // 
+            this.box_out.BackColor = System.Drawing.Color.LightBlue;
+            this.box_out.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
+            this.box_out.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.box_out.Image = global::Quanlybanhang.Properties.Resources.pngtree_black_exit_icon_image_11303661;
+            this.box_out.Location = new System.Drawing.Point(980, 5);
+            this.box_out.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.box_out.Name = "box_out";
+            this.box_out.Size = new System.Drawing.Size(44, 38);
+            this.box_out.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.box_out.TabIndex = 6;
+            this.box_out.TabStop = false;
+            this.box_out.Click += new System.EventHandler(this.box_out_Click);
+            this.box_out.MouseHover += new System.EventHandler(this.box_out_MouseHover);
             // 
             // btn_ThongKeQL
             // 
@@ -209,16 +306,6 @@
             this.btn_NhanVienQL.Text = "   Nhân Viên";
             this.btn_NhanVienQL.Click += new System.EventHandler(this.btn_NhanVienQL_Click);
             // 
-            // pnlIndicator
-            // 
-            this.pnlIndicator.BackColor = System.Drawing.Color.White;
-            this.pnlIndicator.BorderColor = System.Drawing.Color.White;
-            this.pnlIndicator.BorderRadius = 10;
-            this.pnlIndicator.Location = new System.Drawing.Point(3, 164);
-            this.pnlIndicator.Name = "pnlIndicator";
-            this.pnlIndicator.Size = new System.Drawing.Size(7, 56);
-            this.pnlIndicator.TabIndex = 2;
-            // 
             // btn_HangHoaQL
             // 
             this.btn_HangHoaQL.BackColor = System.Drawing.Color.SteelBlue;
@@ -242,17 +329,6 @@
             this.btn_HangHoaQL.Text = "   Hàng Hóa";
             this.btn_HangHoaQL.Click += new System.EventHandler(this.btn_HangHoaQL_Click);
             // 
-            // guna2Panel3
-            // 
-            this.guna2Panel3.BackColor = System.Drawing.Color.SteelBlue;
-            this.guna2Panel3.Controls.Add(this.guna2Panel4);
-            this.guna2Panel3.Controls.Add(this.pictureBox1);
-            this.guna2Panel3.Controls.Add(this.label1);
-            this.guna2Panel3.Location = new System.Drawing.Point(0, 3);
-            this.guna2Panel3.Name = "guna2Panel3";
-            this.guna2Panel3.Size = new System.Drawing.Size(242, 146);
-            this.guna2Panel3.TabIndex = 2;
-            // 
             // pictureBox1
             // 
             this.pictureBox1.BackColor = System.Drawing.Color.SteelBlue;
@@ -266,93 +342,10 @@
             this.pictureBox1.TabIndex = 2;
             this.pictureBox1.TabStop = false;
             // 
-            // label1
-            // 
-            this.label1.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.ForeColor = System.Drawing.SystemColors.Window;
-            this.label1.Location = new System.Drawing.Point(9, 104);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(216, 24);
-            this.label1.TabIndex = 3;
-            this.label1.Text = "STATIONERY STORE";
-            this.label1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
-            // guna2Panel2
-            // 
-            this.guna2Panel2.BackColor = System.Drawing.Color.LightBlue;
-            this.guna2Panel2.Controls.Add(this.label2);
-            this.guna2Panel2.Controls.Add(this.lb_TenQL);
-            this.guna2Panel2.Controls.Add(this.pictureBox2);
-            this.guna2Panel2.Controls.Add(this.pictureBox3);
-            this.guna2Panel2.Location = new System.Drawing.Point(240, 2);
-            this.guna2Panel2.Name = "guna2Panel2";
-            this.guna2Panel2.Size = new System.Drawing.Size(1267, 75);
-            this.guna2Panel2.TabIndex = 1;
-            // 
-            // label2
-            // 
-            this.label2.AutoSize = true;
-            this.label2.Font = new System.Drawing.Font("Segoe UI", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label2.Location = new System.Drawing.Point(43, 24);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(91, 31);
-            this.label2.TabIndex = 9;
-            this.label2.Text = "Quản lí";
-            // 
-            // lb_TenQL
-            // 
-            this.lb_TenQL.AutoSize = true;
-            this.lb_TenQL.Font = new System.Drawing.Font("Segoe UI", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lb_TenQL.Location = new System.Drawing.Point(942, 24);
-            this.lb_TenQL.Name = "lb_TenQL";
-            this.lb_TenQL.Size = new System.Drawing.Size(117, 31);
-            this.lb_TenQL.TabIndex = 8;
-            this.lb_TenQL.Text = "Họ và tên";
-            // 
-            // pictureBox2
-            // 
-            this.pictureBox2.BackColor = System.Drawing.Color.LightBlue;
-            this.pictureBox2.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
-            this.pictureBox2.Image = global::Quanlybanhang.Properties.Resources.lovepik_customer_service_personnel_icons_png_image_400960942_wh860;
-            this.pictureBox2.Location = new System.Drawing.Point(1093, 17);
-            this.pictureBox2.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.pictureBox2.Name = "pictureBox2";
-            this.pictureBox2.Size = new System.Drawing.Size(44, 37);
-            this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox2.TabIndex = 7;
-            this.pictureBox2.TabStop = false;
-            // 
-            // pictureBox3
-            // 
-            this.pictureBox3.BackColor = System.Drawing.Color.LightBlue;
-            this.pictureBox3.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
-            this.pictureBox3.Image = global::Quanlybanhang.Properties.Resources.pngtree_black_exit_icon_image_11303661;
-            this.pictureBox3.Location = new System.Drawing.Point(1187, 17);
-            this.pictureBox3.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.pictureBox3.Name = "pictureBox3";
-            this.pictureBox3.Size = new System.Drawing.Size(44, 38);
-            this.pictureBox3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox3.TabIndex = 6;
-            this.pictureBox3.TabStop = false;
-            // 
-            // guna2Panel4
-            // 
-            this.guna2Panel4.Location = new System.Drawing.Point(240, 73);
-            this.guna2Panel4.Name = "guna2Panel4";
-            this.guna2Panel4.Size = new System.Drawing.Size(1264, 690);
-            this.guna2Panel4.TabIndex = 2;
-            // 
-            // panelMain
-            // 
-            this.panelMain.Location = new System.Drawing.Point(240, 76);
-            this.panelMain.Name = "panelMain";
-            this.panelMain.Size = new System.Drawing.Size(1267, 690);
-            this.panelMain.TabIndex = 2;
-            // 
             // FormQuanLi
             // 
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.None;
-            this.ClientSize = new System.Drawing.Size(1511, 773);
+            this.ClientSize = new System.Drawing.Size(1292, 815);
             this.Controls.Add(this.panelMain);
             this.Controls.Add(this.guna2Panel2);
             this.Controls.Add(this.guna2Panel1);
@@ -362,11 +355,11 @@
             this.Load += new System.EventHandler(this.FormQuanLi_Load);
             this.guna2Panel1.ResumeLayout(false);
             this.guna2Panel3.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.guna2Panel2.ResumeLayout(false);
             this.guna2Panel2.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.box_out)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
 
         }
@@ -377,9 +370,8 @@
         private Guna.UI2.WinForms.Guna2Panel guna2Panel2;
         private System.Windows.Forms.PictureBox pictureBox1;
         private System.Windows.Forms.Label label1;
-        private System.Windows.Forms.PictureBox pictureBox3;
+        private System.Windows.Forms.PictureBox box_out;
         private System.Windows.Forms.PictureBox pictureBox2;
-        private System.Windows.Forms.Label lb_TenQL;
         private System.Windows.Forms.Label label2;
         private Guna.UI2.WinForms.Guna2Panel guna2Panel3;
         private Guna.UI2.WinForms.Guna2Button btn_HangHoaQL;
@@ -392,5 +384,6 @@
         private Guna.UI2.WinForms.Guna2Button btn_ThongKeQL;
         private Guna.UI2.WinForms.Guna2Panel guna2Panel4;
         private Guna.UI2.WinForms.Guna2Panel panelMain;
+        private System.Windows.Forms.ToolTip toolTip1;
     }
 }
